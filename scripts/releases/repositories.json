@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "repositories": {
+    "thechrisfischer/thechrisfischer.github.io": {
+      "delivery": "vendored",
+      "default_branch": "master",
+      "deployments": []
+    }
+  }
+}
